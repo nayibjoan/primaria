@@ -4,46 +4,53 @@
 }
 
 html{
-    background-color: #4444;
+    
+	background:url(../index/fonfo.jpg) no-repeat center top;
+    background-position: top;
+    background-repeat: initial;
+    background-size: 330vh;
 }
 
 body{
     width: 1200px; height: 2000px; margin: auto; 
-background-color: rgb(217, 255, 192); 
+background-color:rgb(215, 236, 195);
 }
 
 header {
     width: 1200px; height: 350px;
-background-color: yellow;
+background-color: rgb(215, 236, 195);
  }
+ 
+
+
  
 nav {
     width: 1200px; height: 60px;
-background-color: rgb(132, 127, 133);
+background-color:rgb(0,255,255);
  }
 
  main {
     width: 1200px; height: 1530px;
-background-color: green; 
+background-color:rgb(0,255,255);
 }
 
 footer {
     width: 1200px; height: 70px;
-background-color: rgb(31, 201, 201);
+background-color: rgb(0,255,255);
  }
  
 section#banner{
     width: 1200px; height: 350px; float: left;
-background-color: rgba(133, 79, 233, 0.856)
+background-color: rgba(49, 216, 63, 0.678);
 }
 
 article {
     width: 950px; height: 1530px; float: left;
-background-color: rgb(190, 190, 231);
+background-color:  rgb(0,255,255);
 }
 
 aside#right{
     width: 250px; height: 720px; float: left;
-background-color: rgb(133, 240, 34);
+background-color: rgb(0,255,255);
  position: relative;
 }

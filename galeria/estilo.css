@@ -1,5 +1,5 @@
 body {
-    background: #444;
+    background:rgb(0,255,255);
     margin: 0;
     font-family: monospace;
 }
@@ -99,4 +99,17 @@ h1 {
     padding: 5px;
     border-radius: 50%;
     line-height: 25px;
+}
+.anuma{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+    
+}
+button{
+    list-style: none;
+    padding: 5px;
+    font: bold 16px arial;
+    display: inline-block;
 }
