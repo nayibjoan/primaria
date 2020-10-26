@@ -4,10 +4,13 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color:rgb(0,255,255);
+html{
+    
+	background:url(../index/fondo1.jpg) no-repeat center top;
+    background-position: top;
+    background-repeat: initial;
+    background-size: 330vh;
 }
-
 .content-all{
     width: 800px;
     height: 500px;

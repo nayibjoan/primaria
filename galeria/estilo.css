@@ -1,5 +1,13 @@
+html{
+    
+	background:url(../index/fondo1.jpg) no-repeat center top;
+    background-position: top;
+    background-repeat: initial;
+    background-size: 330vh;
+}
+
 body {
-    background:rgb(0,255,255);
+    
     margin: 0;
     font-family: monospace;
 }
